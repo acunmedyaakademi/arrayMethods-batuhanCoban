@@ -1,0 +1,193 @@
+[
+    {
+        "ad": "Batuhan",
+        "soyad": "Çoban",
+        "dogumTarihi": "1996",
+        "sehir": "İstanbul"
+    },
+    {
+        "ad": "Ahmet",
+        "soyad": "Merkit",
+        "dogumTarihi": "2005",
+        "sehir": "Ankara"
+    },
+    {
+        "ad": "Kemal",
+        "soyad": "Suphan",
+        "dogumTarihi": "2009",
+        "sehir": "Mersin"
+    },
+    {
+        "ad": "Selim",
+        "soyad": "Kartal",
+        "dogumTarihi": "2003",
+        "sehir": "Karabük"
+    },
+    {
+        "ad": "Abdurrahman",
+        "soyad": "Çetin",
+        "dogumTarihi": "2006",
+        "sehir": "Adıyaman"
+    },
+    {
+        "ad": "Erdi",
+        "soyad": "İnan",
+        "dogumTarihi": "2011",
+        "sehir": "Rize"
+    },
+    {
+        "ad": "Faruk",
+        "soyad": "Çetin",
+        "dogumTarihi": "1999",
+        "sehir": "Kastamonu"
+    },
+    {
+        "ad": "Taylan",
+        "soyad": "Zengin",
+        "dogumTarihi": "1996",
+        "sehir": "Antalya"
+    },
+    {
+        "ad": "Mehmet",
+        "soyad": "Kemancı",
+        "dogumTarihi": "1991",
+        "sehir": "Çanakkale"
+    },
+    {
+        "ad": "Mahmut",
+        "soyad": "Evdal",
+        "dogumTarihi": "1999",
+        "sehir": "Kahramanmaraş"
+    },
+    {
+        "ad": "Çınar Mert",
+        "soyad": "Köybaşı",
+        "dogumTarihi": "2008",
+        "sehir": "Düzce"
+    },
+    {
+        "ad": "Faruk",
+        "soyad": "Kadifeci",
+        "dogumTarihi": "2010",
+        "sehir": "Malatya"
+    },
+    {
+        "ad": "Doğan",
+        "soyad": "Göznur",
+        "dogumTarihi": "2000",
+        "sehir": "Kars"
+    },
+    {
+        "ad": "Devlet",
+        "soyad": "Bahçeli",
+        "dogumTarihi": "2007",
+        "sehir": "Adana"
+    },
+    {
+        "ad": "Kemal",
+        "soyad": "Kılıçtaroğlu",
+        "dogumTarihi": "1994",
+        "sehir": "Kilis"
+    },
+    {
+        "ad": "Metin",
+        "soyad": "Şentürk",
+        "dogumTarihi": "1999",
+        "sehir": "Konya "
+    },    {
+        "ad": "Fatih",
+        "soyad": "Can",
+        "dogumTarihi": "1999",
+        "sehir": "İstanbul"
+    },
+    {
+        "ad": "Emre",
+        "soyad": "Tan",
+        "dogumTarihi": "2003",
+        "sehir": "Ankara"
+    },
+    {
+        "ad": "Necmi",
+        "soyad": "Tefeci",
+        "dogumTarihi": "2004",
+        "sehir": "Mersin"
+    },
+    {
+        "ad": "Emrullah",
+        "soyad": "Yetim",
+        "dogumTarihi": "2003",
+        "sehir": "Ordu"
+    },
+    {
+        "ad": "Mehmet Kemal",
+        "soyad": "Odun",
+        "dogumTarihi": "2005",
+        "sehir": "Trabzon"
+    },
+    {
+        "ad": "Erdi",
+        "soyad": "Kanyoncu",
+        "dogumTarihi": "2000",
+        "sehir": "Eskişehir"
+    },
+    {
+        "ad": "Hasan",
+        "soyad": "Esbaş",
+        "dogumTarihi": "1999",
+        "sehir": "Edirne"
+    },
+    {
+        "ad": "Abdullah",
+        "soyad": "Çoşar",
+        "dogumTarihi": "1996",
+        "sehir": "Tekirdag"
+    },
+    {
+        "ad": "Salih",
+        "soyad": "Salgar",
+        "dogumTarihi": "1991",
+        "sehir": "Van"
+    },
+    {
+        "ad": "Sebahattin",
+        "soyad": "Kancor",
+        "dogumTarihi": "1999",
+        "sehir": "Düzce"
+    },
+    {
+        "ad": "Çınar Mert",
+        "soyad": "Köybaşı",
+        "dogumTarihi": "2006",
+        "sehir": "Hatay"
+    },
+    {
+        "ad": "Faruk",
+        "soyad": "Kadifeci",
+        "dogumTarihi": "2004",
+        "sehir": "Malatya"
+    },
+    {
+        "ad": "Doğan",
+        "soyad": "Göznur",
+        "dogumTarihi": "2008",
+        "sehir": "Kars"
+    },
+    {
+        "ad": "Devlet",
+        "soyad": "Bahçeli",
+        "dogumTarihi": "2007",
+        "sehir": "Adana"
+    },
+    {
+        "ad": "Kemal",
+        "soyad": "Kılıçtaroğlu",
+        "dogumTarihi": "1994",
+        "sehir": "Kilis"
+    },
+    {
+        "ad": "Metin",
+        "soyad": "Şentürk",
+        "dogumTarihi": "1999",
+        "sehir": "Konya "
+    }
+]
